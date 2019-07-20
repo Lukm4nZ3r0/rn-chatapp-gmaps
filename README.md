@@ -45,6 +45,21 @@ git clone https://github.com/Lukm4nZ3r0/rn-chatapp-gmaps.git
 ```sh
 git clone https://github.com/Lukm4nZ3r0/rn-chatapp-gmaps-backend.git
 ```
+
+3. Update some scrips:
+- \android\app\src\main\AndroidManifest.xml
+```
+...
+<meta-data
+    android:name="com.google.android.geo.API_KEY"
+    android:value="REPLACE_WITH_YOUR_GMAPS_API_KEY"/>
+...
+```
+- \URL.js
+```
+const realURL = 'REPLACE_WITH_YOUR_BACKEND_DOMAIN'
+```
+
 then run npm install on each folders root
 
 3. Install NPM packages
