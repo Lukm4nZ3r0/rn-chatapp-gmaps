@@ -62,7 +62,7 @@ const realURL = 'REPLACE_WITH_YOUR_BACKEND_DOMAIN'
 
 then run npm install on each folders root
 
-3. Install NPM packages
+4. Install NPM packages
 ```sh
 npm install
 ```
