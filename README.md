@@ -1,4 +1,20 @@
-# React Native Simple Chat App
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Lukm4nZ3r0/rn-chatapp-gmaps">
+    <img src="https://i2.wp.com/blog.magmalabs.io/wp-content/uploads/2017/11/react-native-blo.png?fit=680%2C680" alt="Logo" width="300" height="300">
+  </a>
+
+  <h3 align="center">React Native Simple Chat App</h3>
+
+  <p align="center">
+    A Realtime Chat build with React Native
+    <br />
+    <a href="https://github.com/Lukm4nZ3r0/rn-chatapp-gmaps/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Lukm4nZ3r0/rn-chatapp-gmaps/issues">Request Feature</a>
+  </p>
+</p>
 
 # Description :
 this application uses React Native by exchanging data in realtime using websocket (socket.io)
